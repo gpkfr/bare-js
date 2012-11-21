@@ -1,4 +1,4 @@
-# TODO: NAME - bare node.js repo template
+# REPO TODO: bare node.js repo template
 
 TODO: DESC
 

@@ -1,6 +1,6 @@
 {
-  "name": "",
-  "description": "",
+  "name": "REPO",
+  "description": "REPO - description here",
   "version": "0.0.1",
   "author": "Jeff Barczewski <jeff.barczewski@gmail.com>",
   "repository": { "type": "git", "url": "http://github.com/jeffbski/REPO.git" },
