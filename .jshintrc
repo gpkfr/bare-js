@@ -13,7 +13,13 @@
     "window",
     "$",
     "__dirname",
-    "__filename"
+    "__filename",
+    "describe",
+    "it",
+    "before",
+    "beforeEach",
+    "after",
+    "afterEach"
   ],
 
   "bitwise": true,
