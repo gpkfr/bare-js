@@ -4,7 +4,6 @@
   "predef": [
     "Arguments",
     "alert",
-    "chai",
     "console",
     "exports",
     "localStorage",
@@ -14,13 +13,7 @@
     "window",
     "$",
     "__dirname",
-    "__filename",
-    "suite",
-    "test",
-    "before",
-    "beforeEach",
-    "after",
-    "afterEach"
+    "__filename"
   ],
 
   "bitwise": true,
