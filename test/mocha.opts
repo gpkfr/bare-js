@@ -1,2 +1,2 @@
 --reporter spec
---ui require
+--ui bdd
