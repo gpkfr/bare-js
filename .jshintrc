@@ -26,6 +26,7 @@
   "bitwise": true,
   "curly": false,
   "eqeqeq": true,
+  "expr": true,
   "forin": true,
   "immed": true,
   "latedef": false,
