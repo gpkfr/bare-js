@@ -2,7 +2,7 @@
   "name": "REPO",
   "description": "REPO - description here",
   "version": "0.0.1",
-  "author": "Jeff Barczewski <jeff.barczewski@gmail.com>",
+  "author": "Jeff Barczewski <info@codewinds.com>",
   "repository": { "type": "git", "url": "http://github.com/jeffbski/REPO.git" },
   "bugs" : { "url": "http://github.com/jeffbski/REPO/issues" },
   "licenses": [{ "type": "MIT", "url" : "http://github.com/jeffbski/REPO/raw/master/LICENSE" }],
