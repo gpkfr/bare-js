@@ -6,7 +6,7 @@ TODO: DESC
 
 ## Installation
 
-Requires node.js >= 0.8
+Requires node.js >= 0.10
 
 ```bash
 npm install ## install dependent node modules
